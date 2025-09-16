@@ -10,7 +10,7 @@ SanitizeAI is a web application demonstrating how AI can protect sensitive infor
 ## Technology Stack
 - Next.js 14 (App Router)
 - Genkit
-- Google Gemini 2.5 Pro (`openai/gpt-4.1`)
+- OpenAI/gpt-4.1 (`openai/gpt-4.1`)
 - Anthropic Model Context Protocol (MCP)
 - ShadCN UI
 - Tailwind CSS
